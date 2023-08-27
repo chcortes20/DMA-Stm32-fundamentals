@@ -10,4 +10,12 @@
    - Addresses of exception handlers. (system exceptions + interrupts)
    - Interrupts are external
    - 16 system exceptions + 82 interrupts
-   
+  
+## Vector Table stuff
+1. Another name for the position is IrQ number
+
+
+Button Interrupt Notes 
+
+the button is connected to PortC pin13. 
+
