@@ -18,4 +18,7 @@
 Button Interrupt Notes 
 
 the button is connected to PortC pin13. 
+---
+Some peripherals deliver their interrupts to the NVIC over the EXTI line. 
+Some peripherals got the NVIC directly
 
